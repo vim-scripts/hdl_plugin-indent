@@ -16,7 +16,11 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=3392
 "    Verilog Instant : Fast instant for verilog.Also add to clipboard 
 "    Vhdl Testbench :Generate a vhdl testbench file 
 "    Verilog Testbench :Generate a verilog testbench file 
+    Format Vhdl File: it can help you to finishing the code.
+"                              Set ":,=>" in the same position.
+"                              Support the "component","signal","instant"and "entity" part.
+"    Use <leader>, to fast define signal.
 
 "    view details:http://www.cnblogs.com/ifys/archive/2010/11/20/1882673.html# 
-"    e-mail: achillowy@163.com 
+"    e-mail: ifys0325@163.com 
 "    Welcome to post your suggestions to me.
